@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "title": "excercice",
+        "description": "50 push ups",
+        "done": false
+    },
+
+    {
+        "id": 1,
+        "title": "read",
+        "description": "read at least 3 chapters",
+        "done": true
+    },
+
+    {
+        "id": 2,
+        "title": "sleep",
+        "description": "8 hours",
+        "done": true
+    }
+]
